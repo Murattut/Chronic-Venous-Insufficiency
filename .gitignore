@@ -2,8 +2,15 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm,macos,python
 
 # project files
-.dataset
-.Project Code-20241216
+dataset/
+Project Code-20241216/
+.idea/
+04_pytorch_custom_datasets.ipynb
+main.py
+Models.py
+Murat_seng_445_project_clean.py
+Murat_seng_445_project_fe.py
+train_test.py
 
 ### macOS ###
 # General
